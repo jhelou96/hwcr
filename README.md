@@ -26,11 +26,11 @@ As many training sets as needed can be provided.
 During the testing phase, the user has to provide a handwritten character and the program will output for each character of the alphabet the probability that it matched with the handwritten character.
 
 ## Demo
-![Alt](http://joeyhelou.com/hwcr/hwcr1.png)
+![Alt](https://drive.google.com/uc?id=1Pt3KnfC1Z8wQx1pOjNm8C35_eNQ8yX0l)
 
-![Alt](http://joeyhelou.com/hwcr/hwcr2.png)
+![Alt](https://drive.google.com/uc?id=1Yyqo9MBBUeb7nTCu8lOeTQWM1vIQRWJH)
 
-![Alt](http://joeyhelou.com/hwcr/hwcr3.png)
+![Alt](https://drive.google.com/uc?id=1Rj_izI1AQOB9q2eg6_86rA41zhXuCNcm)
 
 ## More information
-The detailed paper concerning this project can be found [here](http://joeyhelou.com/hwcr/hwcr.docx)
+The detailed paper concerning this project can be found [here](https://drive.google.com/uc?id=1khqyCAGi9j4Im2y1AcZN85eF_xd-g9DU)
